@@ -1,0 +1,5 @@
+site_name: CPF Generator
+repo_url: https://github.com/c-machad0/cpf_generator
+
+theme:
+  name: readthedocs
